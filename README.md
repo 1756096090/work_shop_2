@@ -24,7 +24,6 @@ Este proyecto de Unity forma parte del Taller 2 y se enfoca en el desarrollo de 
 1. Mueve el ratón para destruir la mayor cantidad de enemigos posible.
 2. Llega al cubo verde para terminar el juego automáticamente.
 
-¡Diviértete jugando!
 
 ###Parte 2
 Cambio de Color de un Objeto en Unity
