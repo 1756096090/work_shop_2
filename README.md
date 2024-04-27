@@ -25,6 +25,6 @@ Este proyecto de Unity forma parte del Taller 2 y se enfoca en el desarrollo de 
 2. Llega al cubo verde para terminar el juego automáticamente.
 
 
-###Parte 2
+##Parte 2
 Cambio de Color de un Objeto en Unity
 Este script permite cambiar el color de un objeto en Unity cuando se presiona la tecla "C". Utiliza un evento de teclado para detectar la tecla presionada y selecciona un color aleatorio para asignarlo al objeto.
