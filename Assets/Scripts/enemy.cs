@@ -13,6 +13,7 @@ public class enemy : MonoBehaviour
     private Renderer renderer;
     private bool isDestroyed = false;
 
+
     void Start()
     {
         renderer = GetComponent<Renderer>();
@@ -29,7 +30,7 @@ public class enemy : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        if (collision.collider.tag == "main_character" && !isDestroyed)
+        if (collision.collider.tag == "main_character")
         {
             isDestroyed = true;
             audio.Play();
